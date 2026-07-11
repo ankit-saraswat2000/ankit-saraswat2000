@@ -1,6 +1,9 @@
-# 👋 Hi, I'm Ankit Saraswat
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+Developer;SQL+%7C+Power+BI+%7C+Excel;Always+Learning+New+Things)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Ankit Saraswat</h1>
+<h3 align="center">Data Analyst | Python | SQL | Power BI | Excel</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+Developer;Power+BI+Developer;Always+Learning+New+Things" />
+</p>
 ## 💼 Data Analyst
 
 I'm passionate about turning raw data into meaningful insights through analysis and visualization. I enjoy working with Python, SQL, Excel, and Power BI to solve real-world business problems.

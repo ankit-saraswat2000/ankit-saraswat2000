@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Ankit Saraswat
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+Developer;SQL+%7C+Power+BI+%7C+Excel;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ## 💼 Data Analyst
 

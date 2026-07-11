@@ -45,11 +45,9 @@ https://www.linkedin.com/in/ankit-saraswat-data/
 
 🌐 GitHub:  
 https://github.com/ankit-saraswat2000
----
-
 ## 📊 GitHub Stats
 
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankit-saraswat2000&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankit-saraswat2000&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-saraswat2000&layout=compact&theme=tokyonight)
 

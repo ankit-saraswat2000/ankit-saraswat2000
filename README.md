@@ -51,11 +51,14 @@ To build a successful career as a Data Analyst by applying analytical thinking, 
 </p>
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankit-saraswat2000&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ankit-saraswat2000&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-saraswat2000&layout=compact&theme=tokyonight"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-saraswat2000&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ankit-saraswat2000&theme=tokyonight)
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=ankit-saraswat2000&theme=tokyonight"/>
+</p>
 ## 📈 GitHub Activity Graph
 
 [![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankit-saraswat2000&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)

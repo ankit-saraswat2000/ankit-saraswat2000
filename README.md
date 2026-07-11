@@ -54,3 +54,12 @@ https://github.com/ankit-saraswat2000
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-saraswat2000&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ankit-saraswat2000&theme=tokyonight)
+## 📈 GitHub Activity Graph
+
+[![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankit-saraswat2000&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=ankit-saraswat2000&theme=algolia&no-frame=true&row=1&column=6)
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=ankit-saraswat2000&style=for-the-badge&color=0e75b6)

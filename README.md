@@ -34,17 +34,14 @@ I'm passionate about turning raw data into meaningful insights through analysis 
 
 To build a successful career as a Data Analyst by applying analytical thinking, problem-solving skills, and data visualization techniques to support business decisions.
 
----
 
 ## 📫 Connect with Me
 
-📧 Email: **ankitsaraswat4076@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Saraswat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-saraswat-data)
 
-💼 LinkedIn:  
-https://www.linkedin.com/in/ankit-saraswat-data/
+[![Gmail](https://img.shields.io/badge/Gmail-ankitsaraswat4076%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitsaraswat4076@gmail.com)
 
-🌐 GitHub:  
-https://github.com/ankit-saraswat2000
+[![GitHub](https://img.shields.io/badge/GitHub-ankit--saraswat2000-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankit-saraswat2000)
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankit-saraswat2000&show_icons=true&theme=tokyonight)
@@ -56,7 +53,6 @@ https://github.com/ankit-saraswat2000
 
 [![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankit-saraswat2000&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## 🏆 GitHub Trophies
-
 ![](https://github-profile-trophy.vercel.app/?username=ankit-saraswat2000&theme=algolia&no-frame=true&row=1&column=6)
 ## 👀 Profile Views
 
